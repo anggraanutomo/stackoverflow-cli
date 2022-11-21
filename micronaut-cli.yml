@@ -1,0 +1,6 @@
+applicationType: cli
+defaultPackage: id.anggra
+testFramework: spock
+sourceLanguage: java
+buildTool: maven
+features: [ annotation-api, app-name, graalvm, http-client, jackson-databind, java, logback, maven, picocli, picocli-java-application, picocli-spock, readme, shade, spock, yaml ]
